@@ -7,6 +7,6 @@ Early and accurate breast cancer detection can significantly improve patient out
 Applied Logistic Regression using scikit-learn on the Breast Cancer dataset for binary classification.
 # Results: 
 Achieved high classification accuracy with effective separation between malignant and benign samples.
-# Conclusions: 
+# Conclusion: 
 Logistic Regression provides a simple yet powerful baseline model for breast cancer prediction tasks.
 
